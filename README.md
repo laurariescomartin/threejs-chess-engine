@@ -40,6 +40,6 @@ https://github.com/user-attachments/assets/0a552c56-56f9-4a3f-8d57-d15c5dd0c9ba
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Clona este repositorio.
-2. Utiliza un servidor local (como *Live Server* en VS Code) para evitar errores de CORS con los módulos de Three.js.
-3. Abre `index.html` en tu navegador.
+1. Clonar este repositorio.
+2. Utilizar un servidor local (como *Live Server* en VS Code) para evitar errores de CORS con los módulos de Three.js.
+3. Abrir `index.html` en el navegador.
